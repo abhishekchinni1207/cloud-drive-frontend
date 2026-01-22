@@ -1,0 +1,12 @@
+
+
+<svg width="260" height="200" viewBox="0 0 260 200"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Star -->
+  <path
+    d="M130 40l18 36 40 6-29 28 7 40-36-19-36 19 7-40-29-28 40-6 18-36z"
+    fill="#FACC15"
+  />
+
+</svg>
